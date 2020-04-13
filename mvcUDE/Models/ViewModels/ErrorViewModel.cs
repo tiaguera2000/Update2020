@@ -1,6 +1,6 @@
 using System;
 
-namespace mvcUDE.Models
+namespace mvcUDE.Models.ViewModels
 {
     public class ErrorViewModel
     {
